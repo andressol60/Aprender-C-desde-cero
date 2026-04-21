@@ -1,0 +1,15 @@
+C:\Users\Wellington Solis\Desktop\C#\01.Variables\bin\Debug\net10.0\01.Variables.exe
+C:\Users\Wellington Solis\Desktop\C#\01.Variables\bin\Debug\net10.0\01.Variables.deps.json
+C:\Users\Wellington Solis\Desktop\C#\01.Variables\bin\Debug\net10.0\01.Variables.runtimeconfig.json
+C:\Users\Wellington Solis\Desktop\C#\01.Variables\bin\Debug\net10.0\01.Variables.dll
+C:\Users\Wellington Solis\Desktop\C#\01.Variables\bin\Debug\net10.0\01.Variables.pdb
+C:\Users\Wellington Solis\Desktop\C#\01.Variables\obj\Debug\net10.0\01.Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wellington Solis\Desktop\C#\01.Variables\obj\Debug\net10.0\01.Variables.AssemblyInfoInputs.cache
+C:\Users\Wellington Solis\Desktop\C#\01.Variables\obj\Debug\net10.0\01.Variables.AssemblyInfo.cs
+C:\Users\Wellington Solis\Desktop\C#\01.Variables\obj\Debug\net10.0\01.Variables.csproj.CoreCompileInputs.cache
+C:\Users\Wellington Solis\Desktop\C#\01.Variables\obj\Debug\net10.0\01.Variables.sourcelink.json
+C:\Users\Wellington Solis\Desktop\C#\01.Variables\obj\Debug\net10.0\01.Variables.dll
+C:\Users\Wellington Solis\Desktop\C#\01.Variables\obj\Debug\net10.0\refint\01.Variables.dll
+C:\Users\Wellington Solis\Desktop\C#\01.Variables\obj\Debug\net10.0\01.Variables.pdb
+C:\Users\Wellington Solis\Desktop\C#\01.Variables\obj\Debug\net10.0\01.Variables.genruntimeconfig.cache
+C:\Users\Wellington Solis\Desktop\C#\01.Variables\obj\Debug\net10.0\ref\01.Variables.dll
