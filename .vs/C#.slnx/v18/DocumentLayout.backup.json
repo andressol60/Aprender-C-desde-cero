@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Wellington Solis\\Desktop\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A01A64E-CE32-4E82-B03C-BD0B3147FB2F}|01.Variables\\01.Variables.csproj|c:\\users\\wellington solis\\desktop\\c#\\01.variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A01A64E-CE32-4E82-B03C-BD0B3147FB2F}|01.Variables\\01.Variables.csproj|solutionrelative:01.variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wellington Solis\\Desktop\\C#\\01.Variables\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:01.Variables\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93A60BA5-1F5B-4AC6-AA40-3C0B597A4B39}|Condicionales\\02.Condicionales.csproj|c:\\users\\wellington solis\\desktop\\c#\\condicionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A60BA5-1F5B-4AC6-AA40-3C0B597A4B39}|Condicionales\\02.Condicionales.csproj|solutionrelative:condicionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,25 +24,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\01.Variables\\Program.cs",
-              "RelativeDocumentMoniker": "01.Variables\\Program.cs",
-              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\01.Variables\\Program.cs",
-              "RelativeToolTip": "01.Variables\\Program.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAuwFcAAAAqAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Condicionales\\Program.cs",
+              "RelativeDocumentMoniker": "Condicionales\\Program.cs",
+              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\Condicionales\\Program.cs*",
+              "RelativeToolTip": "Condicionales\\Program.cs*",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAuwJwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T01:23:05.081Z",
+              "WhenOpened": "2026-04-24T01:43:15.665Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Wellington Solis\\Desktop\\C#\\01.Variables\\Class1.cs",
-              "RelativeDocumentMoniker": "01.Variables\\Class1.cs",
-              "ToolTip": "C:\\Users\\Wellington Solis\\Desktop\\C#\\01.Variables\\Class1.cs",
-              "RelativeToolTip": "01.Variables\\Class1.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T01:19:46.606Z"
             }
           ]
         }
